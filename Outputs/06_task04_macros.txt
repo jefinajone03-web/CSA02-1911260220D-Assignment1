@@ -1,0 +1,10 @@
+Command: task04_macros
+
+RUPEES_TO_PAISE(50)         = 5000
+RUPEES_TO_PAISE(1+1)        = 200 (correct: 200)
+MAX(120, 75)                = 120
+SQUARE(a+1) safe            = 25 (correct: 25)
+BAD_SQUARE(a+1)             = 9 (WRONG: expands to a+1*a+1 = 9)
+square_fn(a+1) = 25
+MAX(i++, j): result = 8, i = 9 (i++ ran twice: result 8, i 9)
+max_fn(i++, j): result = 7, i = 8 (runs once)

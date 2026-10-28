@@ -1,0 +1,7 @@
+Command: task01_text_vs_int
+
+text compare(01530, 01980) = -4
+text size per reading : 6 bytes (d=5 digits + NUL)
+int size per reading : 2 bytes (unsigned short)
+compare 800000 readings x20 : text = 0.175 s, int = 0.034 s (checks -44793940 -15996580)
+memory for 800000 readings : text = 6400000 bytes, int = 1600000 bytes

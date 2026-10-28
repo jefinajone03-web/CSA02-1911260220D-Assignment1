@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Task01/text_vs_int.c -o Outputs/task01_text_vs_int
+Compilation completed without warnings.

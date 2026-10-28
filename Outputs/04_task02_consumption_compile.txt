@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Task02/task02_consumption.c -o Outputs/task02_consumption
+Compilation completed without warnings.

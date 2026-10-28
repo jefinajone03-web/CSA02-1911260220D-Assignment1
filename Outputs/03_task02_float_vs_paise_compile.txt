@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Task02/task02_float_vs_paise.c -o Outputs/task02_float_vs_paise
+Compilation completed without warnings.

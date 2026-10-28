@@ -1,0 +1,13 @@
+Command: task02_float_vs_paise
+
+4000 bills of Rs 0.10 each, exact answer = Rs 400.00
+float total : 400.015198
+double total : 400.0000000000
+long paise    : Rs 400.00
+
+800000 bills of Rs 162.50, exact = Rs 130000000.00
+float total : 129258144.00
+long paise    : Rs 130000000.00
+
+int subtraction without cast: -65280 (negative bill!)
+unsigned short arithmetic   : 256

@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Task03/task03_bill.c -o Outputs/task03_bill
+Compilation completed without warnings.

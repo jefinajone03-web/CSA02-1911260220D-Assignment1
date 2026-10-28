@@ -1,0 +1,3 @@
+Command: gcc -E Task04/task04_macro_expand.c | tail -n 1
+
+int f(int a) { return ((a + 1) * (a + 1)) + a + 1 * a + 1; }

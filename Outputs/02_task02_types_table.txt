@@ -1,0 +1,12 @@
+Command: task02_types_table
+
+type                 bytes range
+char                     1 -128 .. 127
+short                    2 -32768 .. 32767
+unsigned short           2 0 .. 65535
+int                      4 -2147483648 .. 2147483647
+unsigned int             4 0 .. 4294967295
+long                     8 -9223372036854775808 .. 9223372036854775807
+long long                8 -9223372036854775808 .. 9223372036854775807
+float                    4 1.175494e-38 .. 3.402823e+38 (6 digits)
+double                   8 2.225074e-308 .. 1.797693e+308 (15 digits)

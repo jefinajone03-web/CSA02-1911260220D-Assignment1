@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Task04/task04_macros.c -o Outputs/task04_macros
+Compilation completed without warnings.
